@@ -1,0 +1,12 @@
+{"pair_id": "q1", "judge": "aurora-8b", "model_a": "nimbus-9", "model_b": "cobalt-1", "len_a": 512, "len_b": 380, "verdict": "a", "human": "a", "swapped": false}
+{"pair_id": "q1", "judge": "aurora-8b", "model_a": "cobalt-1", "model_b": "nimbus-9", "len_a": 380, "len_b": 512, "verdict": "b", "human": "b", "swapped": true}
+{"pair_id": "q2", "judge": "aurora-8b", "model_a": "aurora-8b", "model_b": "nimbus-9", "len_a": 640, "len_b": 700, "verdict": "a", "human": "b", "swapped": false}
+{"pair_id": "q2", "judge": "aurora-8b", "model_a": "nimbus-9", "model_b": "aurora-8b", "len_a": 700, "len_b": 640, "verdict": "b", "human": "a", "swapped": true}
+{"pair_id": "q3", "judge": "aurora-8b", "model_a": "petrel-3", "model_b": "cobalt-1", "len_a": 1200, "len_b": 410, "verdict": "a", "human": "tie", "swapped": false}
+{"pair_id": "q3", "judge": "aurora-8b", "model_a": "cobalt-1", "model_b": "petrel-3", "len_a": 410, "len_b": 1200, "verdict": "b", "human": "tie", "swapped": true}
+{"pair_id": "q4", "judge": "aurora-8b", "model_a": "nimbus-9", "model_b": "petrel-3", "len_a": 530, "len_b": 520, "verdict": "a", "human": "a", "swapped": false}
+{"pair_id": "q5", "judge": "aurora-8b", "model_a": "cobalt-1", "model_b": "aurora-8b", "len_a": 900, "len_b": 480, "verdict": "b", "human": "a", "swapped": false}
+{"pair_id": "q6", "judge": "aurora-8b", "model_a": "petrel-3", "model_b": "nimbus-9", "len_a": 350, "len_b": 610, "verdict": "b", "human": "b", "swapped": false}
+{"pair_id": "q7", "judge": "aurora-8b", "model_a": "aurora-8b", "model_b": "cobalt-1", "len_a": 760, "len_b": 750, "verdict": "tie", "human": "tie", "swapped": false}
+{"pair_id": "q8", "judge": "aurora-8b", "model_a": "nimbus-9", "model_b": "aurora-8b", "len_a": 420, "len_b": 980, "verdict": "b", "human": "a", "swapped": false}
+{"pair_id": "q9", "judge": "aurora-8b", "model_a": "cobalt-1", "model_b": "petrel-3", "len_a": 660, "len_b": 300, "verdict": "a", "human": "a", "swapped": false}
